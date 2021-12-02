@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @efvincent-aetion
+- 👋 Hi, I’m E Frantz Vincent
 
 <!---
 efvincent-aetion/efvincent-aetion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
